@@ -21,9 +21,7 @@ android {
     kotlinOptions { jvmTarget = '1.8' }
 }
 dependencies {
-    compileOnly 'io.github.kajimi16.ohmyhita:plugin-api:10'
-    compileOnly 'io.github.kajimi16.ohmyhita:plugin-model:10'
-    compileOnly 'io.github.kajimi16.ohmyhita:plugin-component:10'
+    compileOnly 'io.github.kajimi16.ohmyhita:plugin-sdk:10.1'
     compileOnly "androidx.compose.runtime:runtime:1.6.8"
     compileOnly "androidx.compose.ui:ui:1.6.8"
     compileOnly "androidx.compose.foundation:foundation:1.6.8"
