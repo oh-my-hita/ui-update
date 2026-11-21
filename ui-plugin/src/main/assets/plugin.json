@@ -1,9 +1,9 @@
 {
   "id": "com.stupidtree.hita.ui.update",
   "name": "应用更新",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "entryClass": "com.stupidtree.hita.ui.update.UpdateUiPlugin",
-  "apiVersion": 7,
-  "composeVersion": "1.6.8",
+  "apiVersion": 11,
+  "composeVersion": "1.9.4",
   "capabilities": ["hita.ui.update"]
 }
